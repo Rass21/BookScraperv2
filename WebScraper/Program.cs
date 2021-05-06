@@ -59,11 +59,6 @@ namespace WebScraper
                 }
             }
 
-            //foreach (var title in titles)
-            //{
-            //    Console.WriteLine($"{title}");
-            //    Console.WriteLine();
-            //}
             for(int i = 0; i < titles.Count; i++)
             {
                 Console.WriteLine($"{titles[i]}");
